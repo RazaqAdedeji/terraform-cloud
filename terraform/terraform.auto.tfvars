@@ -18,13 +18,13 @@ preferred_number_of_private_subnets = 4
 
 environment = "production"
 
-ami-web = "ami-00a45107f7c3455a5"
+ami-web = "ami-09b120ddbd86b8b07"
 
-ami-bastion = "ami-0dbc99375eba56ff4"
+ami-bastion = "ami-034c21d2c98ea0ed4"
 
-ami-nginx = "ami-010bd88cc8f5997f3"
+ami-nginx = "ami-0e03ee8589a7a062b"
 
-ami-sonar = "ami-0f8bd95a744e074b8"
+ami-sonar = "ami-0b343eec27f21454c"
 
 keypair = "Terraform-key"
 
